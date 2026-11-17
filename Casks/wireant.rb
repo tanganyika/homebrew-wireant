@@ -1,6 +1,6 @@
 cask "wireant" do
-  version "0.7.0"
-  sha256 "248df1a0711885e9167a52ab713743578e0f71dd0c1caab694f4229aee087f8f"
+  version "0.8.0"
+  sha256 "dc7a2b9aff686d1096da892153087b20828bd14f849c5e34c81d3d5c6183b97f"
 
   url "https://github.com/tanganyika/wireant/releases/download/v#{version}/wireant-#{version}-macos-universal.dmg"
   name "wireant"
